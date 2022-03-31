@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Daniel 👋
+
+Currently working as a Security Software Engineer  
+
+Passionate about hacking, securtiy research/development, and the world in general :sunglasses:  
+
+## Connect with me:
+
 
 <!--
 **DanielGrunberger/DanielGrunberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
