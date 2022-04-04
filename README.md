@@ -17,6 +17,7 @@ Passionate about hacking, securtiy research/development, and the world in genera
   </a> &nbsp; 
 </p
 
+ If it takes me too long to answer, I am probably on a CTF 😉
 
 <!--
 **DanielGrunberger/DanielGrunberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
